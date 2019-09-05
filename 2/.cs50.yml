@@ -1,2 +1,4 @@
 submit50:
-    style: false
+  files:
+  - !exclude "node_modules"
+  style: false
